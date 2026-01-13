@@ -1,2 +1,4 @@
 # RAY-DEMO
-THIS IS MY FIRST GIT project
+THIS IS MY FIRST GIT repository
+<br>
+author- roshni
